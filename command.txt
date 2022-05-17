@@ -10,6 +10,6 @@ x/8xg $rsp
 c
 p/f $xmm14.v2_int64[0]
 c
-x/xg $rsp
+x/xg $rbp
 c
 p/f power
